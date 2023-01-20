@@ -36,4 +36,4 @@
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/aligolestan/aligolestan)
-![pv](https://pageview.vercel.app/?github_user=aligolestan)
+
